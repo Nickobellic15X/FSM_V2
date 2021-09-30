@@ -1,0 +1,7 @@
+state_machine.c:12:6:set_state	16	static
+state_machine.c:57:16:get_state	16	static
+state_machine.c:63:6:initstatemachine	16	static
+state_machine.c:73:6:event_handler	16	static
+state_machine.c:80:6:init_buffer	16	static
+state_machine.c:94:6:Add_Event_To_Buffer	16	static
+state_machine.c:112:15:Pop_Event_From_Buffer	24	static
